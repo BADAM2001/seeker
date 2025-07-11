@@ -17,7 +17,7 @@ An Android application that protects your device by monitoring battery health an
 
 ### Splash Screen
 <!-- Paste your splash.jpg link between the brackets below -->
-[![Splash Screen](YOUR_SPLASH_SCREEN_LINK_HERE)](YOUR_SPLASH_SCREEN_LINK_HERE)
+[![Splash Screen][(https://github.com/BADAM2001/seeker/blob/2b1056c26f459bec841d4c50b32ad2f61ffb652a/6310103429900520282.jpg)](YOUR_SPLASH_SCREEN_LINK_HERE)
 
 ### Main Dashboard
 <!-- Paste your main.jpg link between the brackets below -->
