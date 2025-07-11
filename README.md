@@ -20,15 +20,13 @@ An Android application that protects your device by monitoring battery health an
 <img src="https://github.com/BADAM2001/seeker/blob/2b1056c26f459bec841d4c50b32ad2f61ffb652a/6310103429900520282.jpg?raw=true" width="500">
 
 ### Main Dashboard
-<!-- Paste your main.jpg link between the brackets below -->
-[![Main Activity](YOUR_MAIN_ACTIVITY_LINK_HERE)](YOUR_MAIN_ACTIVITY_LINK_HERE)
+<img src="https://github.com/BADAM2001/seeker/blob/0052bce68eab2e8bc98c84bc9cf071736e1d9b3a/6310103429900520284.jpg?raw=true" width="500">
 
 ### Battery Monitor
 <img src="https://github.com/BADAM2001/seeker/blob/824f3fe319cc82dd21cbdc02f561b15e6f17e149/6310103429900520283.jpg?raw=true" width="500">
 
 ### Temperature Gauge
-<!-- Paste your temperature.jpg link between the brackets below -->
-[![Temperature Page](YOUR_TEMPERATURE_PAGE_LINK_HERE)](YOUR_TEMPERATURE_PAGE_LINK_HERE)
+<img src="https://github.com/BADAM2001/seeker/blob/0052bce68eab2e8bc98c84bc9cf071736e1d9b3a/6310103429900520284.jpg?raw=true" width="500">
 
 ## 🛠️ Technical Implementation
 
