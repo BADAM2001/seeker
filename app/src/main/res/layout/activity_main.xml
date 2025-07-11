@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <!-- Logo and App Name (Top Left) -->
+    <LinearLayout
+        android:id="@+id/header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/ic_seeker_logo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SEEKER"
+            android:textColor="@color/seeker_red"
+            android:textSize="24sp"
+            android:fontFamily="@font/seeker_font"
+            android:layout_marginStart="8dp"/>
+    </LinearLayout>
+
+    <!-- Buttons (Centered) -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="32dp">
+
+        <!-- Battery Button -->
+        <Button
+            android:id="@+id/btn_battery"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="BATTERY"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/seeker_red"
+            android:textSize="18sp"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Temperature Button -->
+        <Button
+            android:id="@+id/btn_temperature"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="TEMPERATURE"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/seeker_red"
+            android:textSize="18sp"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Logs Button -->
+        <Button
+            android:id="@+id/btn_logs"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:text="LOGS"
+            android:textColor="@color/white"
+            android:backgroundTint="@color/seeker_red"
+            android:textSize="18sp"/>
+    </LinearLayout>
+
+</RelativeLayout>
